@@ -1,7 +1,9 @@
 # Advanced-Algorithms
 Final Individual Project work by implementing Dijkstra's Algorithm or A Algorithm with a runnable code.
 
-/Five Pathfinding Scenarios for Düsseldorf/
+-
+Five Pathfinding Scenarios for Düsseldorf
+-
 Scenario	Start Point	Target Hospitals	Description
 - 1	Düsseldorf Hbf (Main Station)	All hospitals	Urban center to nearest emergency care
 - 2	Flughafen DUS (Airport)	All hospitals	Airport district to nearest hospital
