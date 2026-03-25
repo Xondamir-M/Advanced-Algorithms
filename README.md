@@ -38,7 +38,11 @@ Comparison
 Scenario                             Dijkstra (ms)    A* (ms)         Speedup   
 ---------------------------------------------------------------------------
 Scenario 1: Hbf to Nearest Hospital  0.12            0.08            1.50x
+
 Scenario 2: Airport to Nearest Hosp 0.35            0.21            1.67x
+
 Scenario 3: Medienhafen to Nearest H 0.28           0.19            1.47x
+
 Scenario 4: Benrath to Nearest Hosp  0.41           0.26            1.58x
+
 Scenario 5: Altstadt to Marien Hosp  0.19           0.12            1.58x
