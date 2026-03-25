@@ -32,7 +32,7 @@ Nearest hospital by straight-line: Uni_Klinikum
   Memory: 22.17 KB
   Nodes Explored: 3
 
-========
+
 Comparison
 ========
 Scenario                             Dijkstra (ms)    A* (ms)         Speedup   
