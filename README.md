@@ -1,7 +1,21 @@
 # Advanced-Algorithms
 Final Individual Project work by implementing Dijkstra's Algorithm or A Algorithm with a runnable code.
 
+I chose Dusseldorf city because of how big this city is, and how many hospitals and how many roads are there. By graph mapping and picking the algorithm to compare both, I can see the difference between these two.
+
+Choosing Algorithm
 -
+- Dijkstra's Algorithm gives the shortest path and is useful for the beginning.
+Time Complexity is O((V+E)log V)
+Space Complexity is O(V)
+
+- A* Algorithm is	faster for Düsseldorf, because of the size of the city.
+Time Complexity is O((V+E) log V) worst-case, better average
+Space Complexity is O(V)
+
+
+
+
 Five Pathfinding Scenarios for Düsseldorf
 -
 Scenario	Start Point	Target Hospitals	Description
