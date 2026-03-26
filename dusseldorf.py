@@ -2,8 +2,7 @@ import heapq
 import math
 import time
 import tracemalloc
-from typing import Dict, List, Tuple, Optional
-import json
+from typing import Dict, List, Tuple
 
 coords = {
     'Uni_Klinikum': (51.1882, 6.7902),
