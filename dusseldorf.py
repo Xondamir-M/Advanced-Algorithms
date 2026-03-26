@@ -4,20 +4,6 @@ import time
 import tracemalloc
 from typing import Dict, List, Tuple
 
-coords = {
-    'Uni_Klinikum': (51.1882, 6.7902),
-    'Marien_Hospital': (51.2674, 6.7701),
-    'Evangelisches_KH': (51.2088, 6.7795),
-    'Krankenhaus_Elbroich': (51.1447, 6.8651),
-    'Sana_Benrath': (51.1653, 6.8669),
-    
-    'Hauptbahnhof': (51.2205, 6.7928),
-    'Altstadt_Rathaus': (51.2255, 6.7715),
-    'Medienhafen': (51.2131, 6.7641),
-    'Flughafen_DUS': (51.2809, 6.7572),
-    'Benrath_Schloss': (51.1616, 6.8715),
-}
-
 class DusseldorfGraph:
     
     def __init__(self):
